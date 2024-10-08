@@ -79,10 +79,5 @@ This project follows these steps:
 - Using machine learning to build a predictive model to help a business function more efficiently
 - Structuring and building a data-findings report
 
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
 
-<p align="middle">
-  <a href="https://coursera.org/share/1c59367a176b10961e2688d8c87f99c5"><img src="https://github.com/PramodRawat157/IBM_APPLIED_DATA_SCIENCE_CAPSTONE_PROJECT-/assets/110245477/02c9060d-7703-4d6a-9619-a4caae779e01" height="420"></a>
-  <a href="https://www.credly.com/badges/d3357542-e250-46dd-80f7-924df239cfe4/public_url"><img src="https://github.com/PramodRawat157/IBM_APPLIED_DATA_SCIENCE_CAPSTONE_PROJECT-/assets/110245477/990e31c9-39ce-47dc-ac38-a6f677d844f5" height="420"></a>
-</p>
+
