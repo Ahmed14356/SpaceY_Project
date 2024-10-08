@@ -9,7 +9,7 @@ SpaceX Falcon-9 Success Landing Prediction SpaceX has gained worldwide attention
 ###### > Data Wrangling
 ###### > Exploratory Data Analysis using SQL
 ###### > EDA DataViz Using Python Pandas and Matplotlib
-###### > Launch Sites Analysis with Folium-Interactive Visual Analytics and Ploty Dash
+###### > Launch Sites Analysis with Folium-Interactive Visual Analytics and Plotly Dash
 ###### > Machine Learning Landing Prediction
 
 # Summary of all results
